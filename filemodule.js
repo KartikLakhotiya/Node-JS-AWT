@@ -27,3 +27,4 @@ fs.appendFile('sample1.txt','Writing to a file using node js', (err) => {
 })
 
 //comment1
+// comment2
